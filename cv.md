@@ -6,7 +6,7 @@ _______________________________________
 * Phone: +48 733 865 644
 * E-mail: monixde@gmail.com
 * Telegram: @DDV
-* [Linkiedin](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B4%D1%80%D0%BE%D0%B1%D0%BE%D0%B2-2a0a1a117/)
+* [Linkedin](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B4%D1%80%D0%BE%D0%B1%D0%BE%D0%B2-2a0a1a117/)
 * [Instagram](https://www.instagram.com/dimadrobov/)
 
 #### Briefly About Myself: ####
