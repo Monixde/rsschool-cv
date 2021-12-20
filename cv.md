@@ -1,4 +1,5 @@
-## Dzmitry Drobau ##
+## Dzmitry Drobau ## 
+![](https://media-exp1.licdn.com/dms/image/C4E03AQHhT4kotvs3EA/profile-displayphoto-shrink_400_400/0/1609318085310?e=1645660800&v=beta&t=CaS8lP1bdZnFb1LSYcmqQ_Bz7Qi8i0qGzwvqFb5EZJE)
 #### Junior Frontend Developer ####
 _______________________________________
 #### Contact information: ###
