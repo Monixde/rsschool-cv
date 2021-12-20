@@ -33,7 +33,7 @@ function createPhoneNumber(numbers){
   }
   ```
   ______________________________________________
-  #### Linguages: ####
+  #### Languages: ####
   1. English - basic
   2. Russian -native
   3. Belorussian - intermediate
