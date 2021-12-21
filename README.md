@@ -1,2 +1,2 @@
 # rsschool-cv
-[URL](https://GITHUB-USERNAME.github.io/rsschool-cv/)
+[URL](https://Monixde.github.io/rsschool-cv/)
