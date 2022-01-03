@@ -1,48 +1,163 @@
-.header {
-    display: flex;
-    margin: 20px;
-    background-color: dimgrey;
-    align-items: center;
-    align-content: flex-start;
+body {
+    margin: 0;
+}
+
+.wrapper {
+
+    margin-right:  auto;
+    margin-left:  auto;
+
+    max-width: 960px;
+
+    padding-right: 10px;
+    padding-left:  10px;
 
 
 }
+.header {
+    position: sticky;
+    display: flex;
+    margin: 20px;
+    background: rgb(34,33,52);
+    background: linear-gradient(90deg, rgba(34,33,52,1) 0%, rgba(99,101,103,0.9948354341736695) 43%, rgba(4,113,135,1) 100%);
+    align-items: center;
+    min-width: 960px;
+
+
+
+
+}
+.header h1, h2, h4 {
+    color: #dcdee0;
+}
 .img {
-    flex-basis: 300px;
+
     align-content: center;
     flex-grow: 1;
 
 }
 .img img {
-    border: darkcyan double 4px ;
-    width: 150px;
+    border: #008b8b double 4px ;
+    width: 200px;
     display: block;
-    justify-content: center;
+
     border-radius: 50%;
-    margin: 20px  auto ;
+    margin: 0  auto ;
 }
 .title {
-    margin: 20px auto;
+    margin: 0 auto;
     flex-grow: 2;
+    text-align: center;
+
 }
 .title_name {
-
+    text-align: center;
 }
 .main {
     display: flex;
     margin: 20px;
+    width: 100%;
 
 }
 .main a {
     text-decoration: none;
+    color: cadetblue;
 }
 .aside {
-    background-color: darkgray;
+    background: rgb(109,109,113);
+    background: linear-gradient(90deg, rgba(109,109,113,1) 0%, rgba(62,63,75,1) 47%);
     flex-grow: 1;
     padding: 10px;
+    min-width: 300px;
+
+
+}
+.aside h2 {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(109,109,113,1) 0%, rgba(8,125,166,1) 47%);
+    border-radius: 35%;
+}
+.aside ul {
+    font-weight: bolder;
+    color: #ffd72c;
+    list-style-type: none;
+    font-size: 15pt;
 }
 .section {
-    margin: 0px 0px 0px 10px;
-    flex-grow: 4;
-    background-color: azure;
+    margin: 0 0 0 10px;
+    flex-grow: 2;
+    background: rgb(34,33,52);
+    background: linear-gradient(90deg, rgba(109,109,113,1) 0%, rgba(144,145,166,1) 47%);
+    display: flex;
+    max-width: 640px;
+    flex-direction: column;
+
+}
+.section h2 {
+    text-align: center;
+    background: rgb(109,109,113);
+    background: linear-gradient(90deg, rgba(109,109,113,1) 0%, rgba(8,125,166,1) 47%);
+}
+.code  {
+    margin: 20px;
+    color: #fff96b;
+    font-weight: bold;
+    font-size: 13pt;
+}
+.footer {
+    background: rgb(34,33,52);
+    background: linear-gradient(90deg, rgba(34,33,52,1) 0%, rgba(99,101,103,0.9948354341736695) 43%, rgba(4,113,135,1) 100%);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px;
+    min-width: 960px;
+
+}
+.language{
+    text-align: center;
+    margin: 20px;
+
+}
+
+.language ul {
+    font-weight: bolder;
+    color: #fff96b;
+    list-style-type: none;
+    font-size: 15pt;
+
+}
+.Education {
+    display: flex;
+    flex-direction: column;
+    font-weight: bolder;
+    color: #fff96b;
+    margin: 20px;
+    font-size: 15pt;
+    text-align: center;
+}
+.about_me {
+    margin: 20px;
+}
+.about_me p{
+
+    color: #fff96b;
+    margin: 20px;
+    font-size: 15pt;
+    text-align: center;
+}
+.social {
+    display: flex;
+    margin: 10px auto;
+}
+.social  img{
+    width: 50px;
+    align-content: center;
+}
+.name_footer {
+    color: #dcdee0;
+    text-align: center;
+}
+.rsschool img{
+    width: 60px;
 }
